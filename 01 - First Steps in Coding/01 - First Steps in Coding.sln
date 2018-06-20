@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{4C7D13FE-2082-49AA-A719-F4D210C19EA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Hello SoftUni", "Exercises\01. Hello SoftUni\01. Hello SoftUni.csproj", "{E4B6D514-1455-41F0-BAC3-41159CB69CCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Expression", "Exercises\02. Expression\02. Expression.csproj", "{4E6E2824-A1AE-4262-BF19-0F5330F2B11F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Nums 1 to 20", "Exercises\03. Nums 1 to 20\03. Nums 1 to 20.csproj", "{AAEE18B9-FB46-49DB-B127-44510309793B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Triangle of 55 Stars", "Exercises\04. Triangle of 55 Stars\04. Triangle of 55 Stars.csproj", "{8E83F22C-98B3-4949-87DD-606754FC33BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Rectangle Area", "Exercises\05. Rectangle Area\05. Rectangle Area.csproj", "{64E745E7-AEA0-430D-BEFF-D0A9B6D675A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Square of Stars", "Exercises\06. Square of Stars\06. Square of Stars.csproj", "{1274D717-00ED-4C02-8030-3916C887DFB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4B6D514-1455-41F0-BAC3-41159CB69CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B6D514-1455-41F0-BAC3-41159CB69CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B6D514-1455-41F0-BAC3-41159CB69CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B6D514-1455-41F0-BAC3-41159CB69CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E6E2824-A1AE-4262-BF19-0F5330F2B11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6E2824-A1AE-4262-BF19-0F5330F2B11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6E2824-A1AE-4262-BF19-0F5330F2B11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6E2824-A1AE-4262-BF19-0F5330F2B11F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAEE18B9-FB46-49DB-B127-44510309793B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEE18B9-FB46-49DB-B127-44510309793B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEE18B9-FB46-49DB-B127-44510309793B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEE18B9-FB46-49DB-B127-44510309793B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E83F22C-98B3-4949-87DD-606754FC33BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E83F22C-98B3-4949-87DD-606754FC33BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E83F22C-98B3-4949-87DD-606754FC33BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E83F22C-98B3-4949-87DD-606754FC33BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64E745E7-AEA0-430D-BEFF-D0A9B6D675A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E745E7-AEA0-430D-BEFF-D0A9B6D675A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E745E7-AEA0-430D-BEFF-D0A9B6D675A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E745E7-AEA0-430D-BEFF-D0A9B6D675A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1274D717-00ED-4C02-8030-3916C887DFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1274D717-00ED-4C02-8030-3916C887DFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1274D717-00ED-4C02-8030-3916C887DFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1274D717-00ED-4C02-8030-3916C887DFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E4B6D514-1455-41F0-BAC3-41159CB69CCB} = {4C7D13FE-2082-49AA-A719-F4D210C19EA4}
+		{4E6E2824-A1AE-4262-BF19-0F5330F2B11F} = {4C7D13FE-2082-49AA-A719-F4D210C19EA4}
+		{AAEE18B9-FB46-49DB-B127-44510309793B} = {4C7D13FE-2082-49AA-A719-F4D210C19EA4}
+		{8E83F22C-98B3-4949-87DD-606754FC33BB} = {4C7D13FE-2082-49AA-A719-F4D210C19EA4}
+		{64E745E7-AEA0-430D-BEFF-D0A9B6D675A1} = {4C7D13FE-2082-49AA-A719-F4D210C19EA4}
+		{1274D717-00ED-4C02-8030-3916C887DFB5} = {4C7D13FE-2082-49AA-A719-F4D210C19EA4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3D43DE8-8E0C-4743-85A2-2699BB36F96E}
+	EndGlobalSection
+EndGlobal
