@@ -6,3 +6,4 @@
 - - [x] [05 - Simple Loops](https://judge.softuni.bg/Contests/154/Simple-Loops)
 - - [x] [06 - Drawing Figures with Loops](https://judge.softuni.bg/Contests/155/Drawing-Figures-with-Loops)
 - - [x] [07 - Advanced Loops](https://judge.softuni.bg/Contests/156/Advanced-Loops)
+
